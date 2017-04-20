@@ -8,7 +8,7 @@ Wacht niet te lang met de voorbereiding zodat we vooraf nog kunnen helpen als he
 Info omgeving:  
 * Local Netwerk (no internet access)
 * SSID puppet   (2.4Ghz)
-*         puppet5 (5Ghz)
+         puppet5 (5Ghz)
 * Netwerk 192.168.1.0/24
 * Gateway/DHCP Server 192.168.1.1
 * Puppet master 1: 192.168.1.3
