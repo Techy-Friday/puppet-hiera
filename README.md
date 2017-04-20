@@ -6,13 +6,13 @@ Dit moet je echt vooraf doen zodat we vrijdag middag gelijk van start kunnen
 Wacht niet te lang met de voorbereiding zodat we vooraf nog kunnen helpen als het niet lukt. Vrijdag middag hebben wij geen tijd meer om te helpen met de setup
 
 Info omgeving:  
-Local Netwerk (no internet access)
-SSID puppet   (2.4Ghz)
-         puppet5 (5Ghz)
-Netwerk 192.168.1.0/24
-Gateway/DHCP Server 192.168.1.1
-Puppet master 1: 192.168.1.3
-(Er komt ook een switch zodat je bekabeld kan aansluiten op het LAN en je via de Wifi toch nog naar internet kan)
+* Local Netwerk (no internet access)
+* SSID puppet   (2.4Ghz)
+*         puppet5 (5Ghz)
+* Netwerk 192.168.1.0/24
+* Gateway/DHCP Server 192.168.1.1
+* Puppet master 1: 192.168.1.3
+* (Er komt ook een switch zodat je bekabeld kan aansluiten op het LAN en je via de Wifi toch nog naar internet kan)
 
 Voorbereiding: 
 Om lokaal op je laptop een vm te starten voor de praktijk werkzaamheden maken we gebruik van virtual box (https://www.virtualbox.org/) en vagrant(https://www.vagrantup.com/).
