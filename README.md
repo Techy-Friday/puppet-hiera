@@ -23,7 +23,7 @@ Install vagrant
   https://www.vagrantup.com/downloads.html
 Installeren is voldoende de rest komt vanuit de meegeleverde Vagrantfile
 
-Kopieer de bijgevoegde Vagrantfile naar een lokale folder bijvoorbeeld: c:\vagrant\puppet
+Kopieer de bijgevoegde [Vagrantfile](Vagrantfile) naar een lokale folder bijvoorbeeld: c:\vagrant\puppet
 Let op hij moet Vagrantfile heten en beginnen met de hoofdletter V
 Edit bovenin de Vagrantfile de variable NAME met jou voornaam om unieke server namen te generen
 Je moet nu 3 verschillende vm’s aanmaken. Centos7, Ubunutu 16.04 en Windows 2012R2
