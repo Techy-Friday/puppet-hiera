@@ -8,7 +8,7 @@
 
 Vagrant.configure(2) do |config|
 
-NAME = 'ceesjan'
+NAME = 'VUL HIER JE NAAM IN'
 
   $install_puppet = <<-'EOS'
     $url = "http://pm.puppetlabs.com/puppet-agent/2016.4.3/1.7.2/repos/windows/puppet-agent-1.7.2-x64.msi"
