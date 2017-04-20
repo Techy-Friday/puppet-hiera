@@ -1,0 +1,2 @@
+# puppet-hiera
+Puppet Hiera
