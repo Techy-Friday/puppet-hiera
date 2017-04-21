@@ -1,0 +1,25 @@
+Links naar interresante documentatie
+
+Hiera/hiera.yaml/hieradata/puppet lookup
+-- https://docs.puppet.com/puppet/4.9/hiera_intro.html
+-- https://docs.puppet.com/puppet/4.9/hiera_quick.html
+-- https://docs.puppet.com/puppet/4.9/hiera_hierarchy.html
+-- https://docs.puppet.com/puppet/4.9/hiera_config_yaml_3.html
+
+- Puppet parameter autolookup
+-- https://docs.puppet.com/puppet/4.9/hiera_automatic.html
+-- https://docs.puppet.com/puppet/4.9/hiera_use_function.html
+
+- Hiera variable interpolation
+-- https://docs.puppet.com/puppet/4.9/hiera_interpolation.html
+
+- Module data
+-- https://docs.puppet.com/puppet/4.9/hiera_migrate_modules.html
+
+- Presentatie van RI Pienaar op de puppetconf over module data:
+-- https://www.devco.net/archives/2016/11/07/puppetconf-2016-external-data-in-puppet-4.php
+
+ 
+
+ 
+
